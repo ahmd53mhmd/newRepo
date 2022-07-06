@@ -10,6 +10,6 @@ hey in this new repo
 > qoute
 1. one
 2. two
-'''
+```
 welcome inside
-'''
+```
