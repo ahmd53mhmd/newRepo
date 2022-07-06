@@ -21,3 +21,5 @@ welcome inside
 - [ ] give me your thoughts
 
 ![This is an image](./css-3.png)
+<img src="./css-3.png" width=100>
+<h1>welcome</h1>
