@@ -13,3 +13,5 @@ hey in this new repo
 ```
 welcome inside
 ```
+
+![This is an image](./css-3.png)
